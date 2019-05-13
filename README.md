@@ -17,6 +17,9 @@
     * 日期：2019/06/03
     * 時間：19:30-21:30
 
+## 專屬學習資訊
+* [初學網路爬蟲學習資訊](https://github.com/StarRocket/Python-only/blob/master/Starter-learning-Web-crawler.md)
+
 ## 過去蟒蛇通
 * [蟒蛇通 #P.01 - Python 自學者的奇幻旅程](https://github.com/StarRocket/Python-only-P01-2019-Starrocket/blob/master/README.md)
 * [蟒蛇通 #P.02 - 手上有資料又會點 Python 可以做甚麼](https://github.com/StarRocket/Python-only-P02-DataScience/blob/master/README.md)
