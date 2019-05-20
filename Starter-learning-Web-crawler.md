@@ -1,10 +1,8 @@
 # 初學網路爬蟲學習資訊【Star Rocket - 蟒蛇通】 
-網路爬蟲是學習 Python 程式語言中重要的一個學習重點，更是許多資料分析的基礎，為了讓更多初學者在學習上更有效率，此文章將以「初學者」的角度出發，從基礎的建立開發環境，到  Python 基礎課程和學習資源，讓大家逐步上手 Python 和學習網路爬蟲，我們將篩選現有的「線上線下學習課程」和「網路學習資源」並不定時更新提供給大家，讓每個人都能按自己的時間進度，前進你的網路爬蟲之旅。
+為了讓更多使用 Python 學習網路爬蟲的初學者在學習上更有效率，此文章從文字編譯器的認識、基礎的開發環境建立、基礎 Python 學習資源，讓大家逐步上手，並且不定時更新內容提供給大家，讓每個人都能按自己的時間進度，前進你的網路爬蟲之旅。
 
-
-
-## 編譯器：
-在開始任何動作以前，先來學學我們要使用什麼工具來寫程式吧！
+## 文字編輯器：
+在開始任何動作以前，先來認識一下寫程式需要使用到的工具吧！
 
 1. Visual Studio code
     1. [官方網站（英文）](https://code.visualstudio.com/)
@@ -22,6 +20,8 @@
             2. [使用教程（知乎 - 豆豆）](https://zhuanlan.zhihu.com/p/33105153)
 
 ## 初學 Python 學習資訊
+第一次學習 Python 就從這裡開始了，我們彙整專門給新手的學習資料，讓你更有效的熟稔這個程式語言。
+
 * [【Star Rocket】Python 學習地圖與攻略](https://github.com/StarRocket/Python-learning-map/blob/master/README.md)
 * [【Star Rocket】零基礎上手：Python 程式語言設計](https://github.com/StarRocket/python-beginner-webcrawler-infographic/blob/master/README.md)
 * [【Star Rocket】輕鬆上手 Python 程式語言－透過設計美學讓你有效學習程式語言](https://github.com/StarRocket/Python-starter-training-01)
@@ -30,6 +30,8 @@
 * [Python 超級新手教學（TJ Wei）](https://www.youtube.com/watch?v=pAY3q4KZ-z4&list=PLl6jkZVaP8zrH8SNpgEfWKg8ofJDYrf1w) 
 
 ## 爬蟲專題課程資訊
+接下來就要實作才知道你會多少了，不要怕，邊學邊做，有問題就提出來，讓你一關一關過！
+
 * [什麼是網路爬蟲（大數軟體有限公司）](https://www.youtube.com/watch?v=ceUhb2-gYOU)
 * [零基礎學網頁爬蟲（HiSKIO）](https://hiskio.com/courses/121#)
 * 網頁爬蟲實作
@@ -45,6 +47,8 @@
         * [透過操控瀏覽器擷取網站資料](https://medium.com/datainpoint/python-essentials-web-scraping-with-selenium-638175f839ee)：使用 selenium 套件。
 
 ## 其他學習資料
+除了學習基礎 Python 程式語言外，學程式還有這些重要的內容和工具是你需要知道的呦！
+
 1. Git 簡介與使用
     1. 概念介紹
         1. [為你自己學 Git（高見龍）](https://gitbook.tw/)
