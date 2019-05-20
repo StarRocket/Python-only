@@ -7,19 +7,19 @@
 在開始任何動作以前，先來學學我們要使用什麼工具來寫程式吧！
 
 1. Visual Studio code
-    1. [官方網站](https://code.visualstudio.com/)
+    1. [官方網站（英文）](https://code.visualstudio.com/)
     2. 使用介紹
-        1. 參考文章：
-            1. [Visual Studio Code 快速上手指南（非官方中文介紹）](https://www.slideshare.net/shengyou/visual-studio-code-62532711)
-            2. [Visual Studio Code 繁中語言包安裝與語系設定](https://www.minwt.com/webdesign-dev/html/21217.html)
+        1. [官方文章（英文）](https://code.visualstudio.com/docs)
+        2. 參考文章：
+            1. [快速上手指南（Shengyou Fan）](https://www.slideshare.net/shengyou/visual-studio-code-62532711)
+            2. [繁體中文語言安裝與設定（梅問題教學網）](https://www.minwt.com/webdesign-dev/html/21217.html)
 2. Jupyter Notebook
-    1. [官方網站](https://jupyter-notebook.readthedocs.io/en/latest/index.html)
+    1. [官方網站（英文）](https://jupyter-notebook.readthedocs.io/en/latest/index.html)
     2. 使用介紹
-        1. 參考文章：
-            1. [Jupyter Notebook介紹及安裝說明(含中文圖解介面)](https://medium.com/python4u/jupyter-notebook%E5%AE%8C%E6%95%B4%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E8%AA%AA%E6%98%8E-b8fcadba15f)
-            2. [Jupyter Notebook介绍、安装及使用教程](https://zhuanlan.zhihu.com/p/33105153)
-            3. [學習 Python 不可不知的開發工具 IPython 和 Jupyter Notebook](http://seansharingblog.blogspot.com/2017/09/python-ipython-jupyter-notebook.html)（簡報）
-
+        1. [官方文章（英文）](https://jupyter.readthedocs.io/en/latest/running.html)
+        2. 參考文章：
+            1. [介紹及安裝（MAPE Academy）](https://medium.com/python4u/jupyter-notebook%E5%AE%8C%E6%95%B4%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E8%AA%AA%E6%98%8E-b8fcadba15f)
+            2. [使用教程（知乎 - 豆豆）](https://zhuanlan.zhihu.com/p/33105153)
 
 ## 初學 Python 學習資訊
 * [【Star Rocket】Python 學習地圖與攻略](https://github.com/StarRocket/Python-learning-map/blob/master/README.md)
@@ -27,19 +27,19 @@
 * [【Star Rocket】輕鬆上手 Python 程式語言－透過設計美學讓你有效學習程式語言](https://github.com/StarRocket/Python-starter-training-01)
 * [Python 簡介、安裝、與快速開始（彭彭）](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)
 * [基礎教學 Python（莫煩 Python）](https://morvanzhou.github.io/tutorials/python-basic/basic/)
-* [Python 超級新手教學](https://www.youtube.com/watch?v=pAY3q4KZ-z4&list=PLl6jkZVaP8zrH8SNpgEfWKg8ofJDYrf1w) 
+* [Python 超級新手教學（TJ Wei）](https://www.youtube.com/watch?v=pAY3q4KZ-z4&list=PLl6jkZVaP8zrH8SNpgEfWKg8ofJDYrf1w) 
 
 ## 爬蟲專題課程資訊
-* [什麼是網路爬蟲](https://www.youtube.com/watch?v=ceUhb2-gYOU)
-* [零基礎學網頁爬蟲](https://hiskio.com/courses/121#)
+* [什麼是網路爬蟲（大數軟體有限公司）](https://www.youtube.com/watch?v=ceUhb2-gYOU)
+* [零基礎學網頁爬蟲（HiSKIO）](https://hiskio.com/courses/121#)
 * 網頁爬蟲實作
     * 爬取租房信息
-        * [使用 Scrapy 套件](https://www.udemy.com/bulabean-scrapy/)
-        * [使用 Urllib 套件](https://hiskio.com/courses/76)
-    * [爬取 Youtube 資訊](https://hiskio.com/courses/112)
+        * [使用 Scrapy 套件（Udemy - 講師Bula bean）](https://www.udemy.com/bulabean-scrapy/)
+        * [使用 Urllib 套件（HiSKIO）](https://hiskio.com/courses/76)
+    * [爬取 Youtube 資訊（HiSKIO - 講師 Kevin He）](https://hiskio.com/courses/112)
 * 網頁資料擷取
-    * [Python 網路連線程式、公開資料串接](https://www.youtube.com/watch?v=sUzR3QVBKIo)
-    * Python 與網頁資料擷取（[Datainpoint](https://www.datainpoint.com/)）
+    * [Python 網路連線程式、公開資料串接（彭彭）](https://www.youtube.com/watch?v=sUzR3QVBKIo)
+    * Python 與網頁資料擷取（[Datainpoint - 郭耀仁](https://www.datainpoint.com/)）
         * [透過 API 擷取網站資料](https://medium.com/datainpoint/python-essentials-requesting-web-api-edd417a57ba5)：使用 requests 與 lxml 套件。
         * [透過解析 HTML 擷取網站資料](https://medium.com/datainpoint/python-essentials-parsing-html-5620b4c06e50)：使用 requests 與 beautifulsoup4、pyquery 套件。
         * [透過操控瀏覽器擷取網站資料](https://medium.com/datainpoint/python-essentials-web-scraping-with-selenium-638175f839ee)：使用 selenium 套件。
@@ -47,19 +47,21 @@
 ## 其他學習資料
 1. Git 簡介與使用
     1. 概念介紹
-        1. [Git新手入門教學](https://kopu.chat/2017/01/18/git%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8-part-1/)
-        2. [Git 與 Github 版本控制基本指令與操作入門教學](https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/)
+        1. [為你自己學 Git（高見龍）](https://gitbook.tw/)
+        2.  [Git 新手入門教學（寫點科普）](https://kopu.chat/2017/01/18/git%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8-part-1/)
+        3. [Git 與 Github 版本控制基本指令與操作入門教學（TechBridge 技術共筆部落格）](https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/)
     2. 安裝介紹
-        1. [基本使用 Git 課程基本介紹](https://www.youtube.com/watch?v=Q9ECyrjbh1A)
-. Github 簡介與使用（關鍵字：github 教學）
+        1. [Git 基本介紹（Progress Bar 進度條線上課程）](https://www.youtube.com/watch?v=Q9ECyrjbh1A)
+        2. [Git 入門指南（連猴子都能懂的 Git 入門指南）](https://backlog.com/git-tutorial/tw/)
+4. Github 簡介與使用
     1. 使用概念
-        1. [Git達人教你搞懂GitHub基礎觀念](https://www.ithome.com.tw/news/95283)
-        2. [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
-    2. 使用介面介紹
-        1. [在 MacOS 上面安裝 Github Desktop](https://www.youtube.com/watch?v=Jzlbr4izdpc)
-        2. github基本教學 - 從無到有
-            1. [影片](https://www.youtube.com/watch?v=py3n6gF5Y00)
-            2. [資料](https://github.com/twtrubiks/Git-Tutorials)
+        1. [GitHub 基礎觀念（王立恒）](https://www.ithome.com.tw/news/95283)
+    2. 介面介紹
+        1. [官方文件（英文）](https://help.github.com/en#dotcom)
+        2. [安裝 Github Desktop for MacOS（Progress Bar 進度條線上課程）](https://www.youtube.com/watch?v=Jzlbr4izdpc)
+        3. Github 基本教學
+            1. [影片（沈弘哲）](https://www.youtube.com/watch?v=py3n6gF5Y00)
+            2. [資料（twtrubiks）](https://github.com/twtrubiks/Git-Tutorials)
 
 
 ## 過去蟒蛇通學習資料
