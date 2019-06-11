@@ -6,8 +6,8 @@
 由【Star Rocket】獨家推出，以 Python 程式語言為核心的聚會 ——**「蟒蛇通」**——因應而生，專為 Python 開發者或是自學半路出家的朋友們安排的內容，讓你認識到能與你一同 debug、解決卡關的好夥伴、讓你聽見其他的學習經歷、前輩們專案經驗、還有 Python 小實作，絕對不會讓你白跑，還在等什麼，就等你一起來玩！
 
 ## 近期蟒蛇通
-* [蟒蛇通 #P.03 - Python 自學者的奇幻旅程](https://www.accupass.com/go/pythononly03)（點擊進入報名）
-    * 日期：2019/06/10
+* [蟒蛇通 #P.04 - 網路爬蟲網站資訊自動化，再用 LINE 推播給自己](http://bit.ly/2wFRpJM)（點擊進入報名）
+    * 日期：2019/07/03（三）
     * 時間：19:30-21:30
 
 ## 專屬學習資訊
@@ -16,6 +16,7 @@
 ## 過去蟒蛇通
 * [蟒蛇通 #P.01 - Python 自學者的奇幻旅程](https://github.com/StarRocket/Python-only-P01-2019-Starrocket/blob/master/README.md)
 * [蟒蛇通 #P.02 - 手上有資料又會點 Python 可以做甚麼](https://github.com/StarRocket/Python-only-P02-DataScience/blob/master/README.md)
+* [蟒蛇通 #P.03 - 第一次使用 Python 網路爬蟲不要怕](https://www.accupass.com/go/pythononly03)
 
 ## Python 相關學習資料包【Star Rocket】
 * [Python 學習地圖與攻略](https://github.com/StarRocket/Python-learning-map/blob/master/README.md)
